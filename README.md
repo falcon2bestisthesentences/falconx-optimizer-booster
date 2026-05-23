@@ -4,7 +4,7 @@
 
 **Bilgisayarınızın Gerçek Gücünü Ortaya Çıkarın! Maksimum FPS, Minimum Gecikme.**
 
-[![Version](https://img.shields.io/badge/Versiyon-6.4.2-blue.svg)]()
+[![Version](https://img.shields.io/badge/Versiyon-6.4.3-blue.svg)]()
 [![OS](https://img.shields.io/badge/OS-Windows%2010%20%7C%2011-success.svg)]()
 [![License: MIT](https://img.shields.io/badge/Lisans-MIT-yellow.svg)]()
 
